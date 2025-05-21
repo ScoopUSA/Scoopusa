@@ -1,0 +1,124 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "ghcr.io/devcontainers-extra/features/beehive:1": {},
+  "ghcr.io/devcontainers-extra/features/devcontainers-cli:1": {},
+  "ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {},
+  "ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {},
+  "ghcr.io/stuartleeks/dev-container-features/add-host:1": {},
+  "ghcr.io/joshuanianji/devcontainer-features/aws-cli-persistence:1": {},
+  "ghcr.io/customink/codespaces-features/sam-cli:1": {},
+  "ghcr.io/stuartleeks/dev-container-features/add-host:1": {},
+  "ghcr.io/devcontainers-extra/features/angular-cli:2": {},
+  "ghcr.io/stuartleeks/dev-container-features/add-host:1": {},
+  "ghcr.io/skriptfabrik/devcontainer-features/mailpit:1": {},
+  "ghcr.io/bartventer/arch-devcontainer-features/azure-cli:1": {},
+  "ghcr.io/devcontainers-extra/features/jmeter-sdkman:2": {},
+  "ghcr.io/jpawlowski/devcontainer-features/cli-microsoft365:1": {},
+  "ghcr.io/joedmck/devcontainer-features/cloudflared:1": {},
+  "ghcr.io/bascodes/devcontainer-features/cf-warp-cli:1": {},
+  "ghcr.io/devcontainers-extra/features/caddy:1": {},
+  "ghcr.io/bdsoha/devcontainers/custom-root-ca:1": {},
+  "ghcr.io/devcontainers-extra/features/dashlane-cli:1": {},
+  "ghcr.io/devcontainers-extra/features/azure-apiops:1": {},
+  "ghcr.io/devcontainers-extra/features/cosign:1": {},
+  "ghcr.io/devcontainers-community/templates/dart:1": {},
+  "ghcr.io/bdsoha/devcontainers/custom-root-ca:1": {},
+  "ghcr.io/skriptfabrik/devcontainer-features/mailpit:1": {},
+  "ghcr.io/nullcoder/devcontainer-features/stripe-cli:1": {},
+  "ghcr.io/bartventer/arch-devcontainer-features/gcloud-cli:1": {},
+  "ghcr.io/devcontainers/features/desktop-lite:1": {},
+  "ghcr.io/devcontainers-extra/features/elasticsearch-asdf:2": {},
+  "ghcr.io/devcontainers-extra/features/browserify:2": {},
+  "ghcr.io/devcontainers-extra/features/n8n:1": {},
+  "ghcr.io/natescherer/devcontainers-custom-features/powershell-resources:1": {},
+  "ghcr.io/devcontainers/features/php:1": {},
+  "ghcr.io/jpawlowski/devcontainer-features/pnp.powershell:1": {},
+  "ghcr.io/bartventer/arch-devcontainer-features/gcloud-cli:1": {},
+  "ghcr.io/joshuanianji/devcontainer-features/gcloud-cli-persistence:1": {},
+  "ghcr.io/devcontainers/features/hugo:1": {},
+  "ghcr.io/devcontainers-extra/features/jshint:2": {},
+  "ghcr.io/devcontainers-extra/features/kotlin-sdkman:2": {},
+  "ghcr.io/devcontainers-extra/features/lastpass-cli-homebrew:1": {},
+   "ghcr.io/devcontainers-extra/features/lektor:2": {},
+  "ghcr.io/devcontainers-extra/features/pass-apt-get:1": {},
+  "ghcr.io/nullcoder/devcontainer-features/stripe-cli:1": {},
+  "ghcr.io/devcontainers/features/node:1": {},
+  "ghcr.io/devcontainers-extra/features/ionic-cli:2": {},
+  "ghcr.io/dlouwers/devcontainer-features/devbox:1": {},
+  "ghcr.io/devcontainers-extra/features/kotlin-sdkman:2": {},
+  "ghcr.io/devcontainers-extra/features/keepercommander:1": {},
+  "ghcr.io/davzucky/devcontainers-features-wolfi/bash:1": {},
+  "ghcr.io/devcontainers-extra/features/auditjs:1": {},
+  "ghcr.io/devcontainers-extra/features/lighthouse-cli:1": {}.
+  "ghcr.io/devcontainers-extra/features/lastpass-cli-homebrew:1": {},
+  "ghcr.io/chaoswars/synology-features/toolkit:1": {},
+  "ghcr.io/audacioustux/devcontainers/localstack:1": {},
+  "ghcr.io/devcontainers-extra/features/powershell:1": {},
+  "ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {},
+  "ghcr.io/devcontainers-extra/features/lastpass-cli-homebrew:1": {},
+  "ghcr.io/devcontainers-extra/features/ninja-asdf:2": {},
+  "ghcr.io/devcontainers-extra/features/kobweb-sdkman:2": {},
+  "ghcr.io/devcontainers/features/desktop-lite:1": {},
+  "ghcr.io/devcontainers-extra/features/lighthouse-cli:1": {},
+  "ghcr.io/devcontainers-extra/features/webtau-sdkman:2": {},
+  "ghcr.io/devcontainers-extra/features/node-asdf:0": {};
+  "ghcr.io/rocker-org/devcontainer-features/pandoc:1":{};
+  "ghcr.io/chaoswars/synology-features/toolkit:1": {};
+  "ghcr.io/rocker-org/devcontainer-features/pandoc:1": {},
+  "ghcr.io/nullcoder/devcontainer-features/stripe-cli:1": {},
+  "ghcr.io/devcontainers/features/node:1": {},
+  "ghcr.io/r3dpoint/devcontainer-features/tailwindcss-standalone-cli:1": {},
+  "ghcr.io/devcontainers-extra/features/tailscale:1": {},
+  "ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {};
+  "ghcr.io/devcontainers-extra/features/rclone:1": {};
+  "ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {},
+  "ghcr.io/devcontainers-extra/features/http-server:1": {},
+  "ghcr.io/devcontainers-extra/features/yt-dlp:2": {};
+  "ghcr.io/devcontainers-extra/features/youtube-dl:2": {};
+  "ghcr.io/devcontainers-extra/features/youtube-dl:2": {};
+  "ghcr.io/michidk/devcontainers-features/typos:1": {},
+  "ghcr.io/devcontainers-extra/features/cloud-nuke:1": {},
+  "ghcr.io/schlich/devcontainer-features/cypress:1": {},
+  "ghcr.io/kvokka/features/aicommit2:1": {};
+  
+
+
+  
+
+
+
+
+
+
+  
+
+  
+  
+  
+  
+  
+  
+    
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+}
